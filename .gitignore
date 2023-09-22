@@ -1,0 +1,10 @@
+/target/
+/.idea/
+/readme_img/
+*.iml
+README.md
+/logs/
+/data/
+/Diagrams/
+/css/
+/javafx-sdk-17.0.1/
